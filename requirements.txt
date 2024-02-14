@@ -1,0 +1,5 @@
+beautifulsoup4
+requests
+python-telegram-bot
+schedule
+python-telegram-bot[job-queue]

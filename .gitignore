@@ -1,0 +1,10 @@
+__pycache__
+bot_config.py
+distros.json
+Lib
+pyvenv.cfg
+Scripts
+subscribers.json
+bin
+lib
+lib64

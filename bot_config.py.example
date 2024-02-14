@@ -1,0 +1,4 @@
+TOKEN = '<your_telegram_bot_token>'
+MAIL = '<your_contact_mail>'
+LOGIN_1C_RU_USERNAME = '<login.1c.ru username>'
+LOGIN_1C_RU_PASSWORD = '<login.1c.ru password>'
