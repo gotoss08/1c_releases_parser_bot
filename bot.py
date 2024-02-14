@@ -56,7 +56,7 @@ async def bot_unsubscribe_command(update, context):
 
 async def bot_about_command(update, context):
     chat = update.effective_chat
-    message_text = f"Бот используется для автоматической отправки уведомлений о выходе новых обновлений на конфигурации 1С для Казахстана.\n\nИсточники данных:\nreleases.1c.ru\ndownload.1c-rating.kz\n\n Почта для обратной связи: {config.MAIL}"
+    message_text = f"Бот используется для автоматической отправки уведомлений о выходе новых обновлений на конфигурации 1С для Казахстана.\n\nИсточники данных:\nreleases.1c.ru\ndownload.1c-rating.kz\n\nПочта для обратной связи: {config.MAIL}"
     await chat.send_message(message_text)
 
 async def send_to_subscribers(bot, text):
