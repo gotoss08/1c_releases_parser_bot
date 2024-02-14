@@ -5,6 +5,8 @@ import sys
 import json
 import codecs
 
+import bot_config as config
+
 RELEASES_BASE_DISTROS_ID = '93'
 RELEASES_INDUSTRY_DISTROS_ID = '162'
 
