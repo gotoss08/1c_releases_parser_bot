@@ -8,3 +8,4 @@ subscribers.json
 bin
 lib
 lib64
+*.log
